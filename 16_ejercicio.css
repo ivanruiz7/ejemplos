@@ -1,0 +1,17 @@
+.cuadrado {
+   background-color: brown;
+}
+
+.cuadrado.rojo {
+    background-color: red;
+    
+   
+}
+
+.cuadrado.borde {
+    border: 2px solid black;
+}
+.boton1{
+    width: 200px;
+    background-color: red;
+}
